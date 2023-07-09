@@ -1,0 +1,16 @@
+{
+  "name": "VitestDemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mohanakamanooru/VitestDemo.git",
+  "author": "mohana <mkamanooru@amplience.com>",
+  "license": "MIT",
+  "scripts": {
+    "test:ui" : "vitest --ui --api 1337"
+  },
+  "dependencies": {
+    "@vitest/ui": "^0.33.0",
+    "vite": "^4.4.2",
+    "vitest": "^0.33.0"
+  }
+}

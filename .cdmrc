@@ -1,0 +1,3 @@
+live-reload-browser: false
+tabs : ["tests/add.tst.js"]
+terminal-one : yarn test:ui
